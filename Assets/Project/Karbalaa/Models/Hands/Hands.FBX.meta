@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 92af51a7c5f5aff4f84846f7785dc161
+timeCreated: 1498747874
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone:J008 R_FOREARM
+    100002: Bone:J009 R_HAND
+    100004: Bone:J013 L_FOREARM
+    100006: Bone:J014 L_HAND
+    100008: Bone:J025 R_THUMB_1
+    100010: Bone:J026 R_THUMB_2
+    100012: Bone:J027 R_THUMB_3
+    100014: Bone:J028 R_INDEX_FINGER_1
+    100016: Bone:J029 R_INDEX_FINGER_2
+    100018: Bone:J030 R_INDEX_FINGER_3
+    100020: Bone:J031 R_MIDDLE_FINGER_1
+    100022: Bone:J032 R_MIDDLE_FINGER_2
+    100024: Bone:J033 R_MIDDLE_FINGER_3
+    100026: Bone:J034 R_METACARPAL
+    100028: Bone:J035 R_RING_FINGER_1
+    100030: Bone:J036 R_RING_FINGER_2
+    100032: Bone:J037 R_RING_FINGER_3
+    100034: Bone:J038 R_PINKY_FINGER_1
+    100036: Bone:J039 R_PINKY_FINGER_2
+    100038: Bone:J040 R_PINKY_FINGER_3
+    100040: Bone:J041 L_THUMB_1
+    100042: Bone:J042 L_THUMB_2
+    100044: Bone:J043 L_THUMB_3
+    100046: Bone:J044 L_INDEX_FINGER_1
+    100048: Bone:J045 L_INDEX_FINGER_2
+    100050: Bone:J046 L_INDEX_FINGER_3
+    100052: Bone:J047 L_MIDDLE_FINGER_1
+    100054: Bone:J048 L_MIDDLE_FINGER_2
+    100056: Bone:J049 L_MIDDLE_FINGER_3
+    100058: Bone:J050 L_METACARPAL
+    100060: Bone:J051 L_RING_FINGER_1
+    100062: Bone:J052 L_RING_FINGER_2
+    100064: Bone:J053 L_RING_FINGER_3
+    100066: Bone:J054 L_PINKY_FINGER_1
+    100068: Bone:J055 L_PINKY_FINGER_2
+    100070: Bone:J056 L_PINKY_FINGER_3
+    100072: //RootNode
+    100074: Object001
+    400000: Bone:J008 R_FOREARM
+    400002: Bone:J009 R_HAND
+    400004: Bone:J013 L_FOREARM
+    400006: Bone:J014 L_HAND
+    400008: Bone:J025 R_THUMB_1
+    400010: Bone:J026 R_THUMB_2
+    400012: Bone:J027 R_THUMB_3
+    400014: Bone:J028 R_INDEX_FINGER_1
+    400016: Bone:J029 R_INDEX_FINGER_2
+    400018: Bone:J030 R_INDEX_FINGER_3
+    400020: Bone:J031 R_MIDDLE_FINGER_1
+    400022: Bone:J032 R_MIDDLE_FINGER_2
+    400024: Bone:J033 R_MIDDLE_FINGER_3
+    400026: Bone:J034 R_METACARPAL
+    400028: Bone:J035 R_RING_FINGER_1
+    400030: Bone:J036 R_RING_FINGER_2
+    400032: Bone:J037 R_RING_FINGER_3
+    400034: Bone:J038 R_PINKY_FINGER_1
+    400036: Bone:J039 R_PINKY_FINGER_2
+    400038: Bone:J040 R_PINKY_FINGER_3
+    400040: Bone:J041 L_THUMB_1
+    400042: Bone:J042 L_THUMB_2
+    400044: Bone:J043 L_THUMB_3
+    400046: Bone:J044 L_INDEX_FINGER_1
+    400048: Bone:J045 L_INDEX_FINGER_2
+    400050: Bone:J046 L_INDEX_FINGER_3
+    400052: Bone:J047 L_MIDDLE_FINGER_1
+    400054: Bone:J048 L_MIDDLE_FINGER_2
+    400056: Bone:J049 L_MIDDLE_FINGER_3
+    400058: Bone:J050 L_METACARPAL
+    400060: Bone:J051 L_RING_FINGER_1
+    400062: Bone:J052 L_RING_FINGER_2
+    400064: Bone:J053 L_RING_FINGER_3
+    400066: Bone:J054 L_PINKY_FINGER_1
+    400068: Bone:J055 L_PINKY_FINGER_2
+    400070: Bone:J056 L_PINKY_FINGER_3
+    400072: //RootNode
+    400074: Object001
+    4300000: Object001
+    9500000: //RootNode
+    13700000: Object001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Rock11Mat
+  m_Shader: {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: efd557f94884c714f92fbe02b4fc3f40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DecalTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Diffuse
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Height
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Main
+      second:
+        m_Texture: {fileID: 2800000, guid: bb5623d950a71dd4eadbe173dc9c216b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 0c8d06f61c67f324495e426ceedce6e3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NoiseMask
+      second:
+        m_Texture: {fileID: 2800000, guid: 7b836bf825157d14aab6a7319ed82379, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normal
+      second:
+        m_Texture: {fileID: 2800000, guid: 8869d5a4751f9a845b9bae4506f42ff3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Sand
+      second:
+        m_Texture: {fileID: 2800000, guid: 715388fe16c927145a7919ed1bffd4ed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SandNormal
+      second:
+        m_Texture: {fileID: 2800000, guid: 3c25e55fb8974ac4a840c6d5b7b9f6aa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Specular
+      second:
+        m_Texture: {fileID: 2800000, guid: 8a03e0cd25dd7774592d5b7f8e3b8f4e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Gloss
+      second: 0.05
+    - first:
+        name: _HeightBrightness
+      second: 1
+    - first:
+        name: _HeightContrast
+      second: 1
+    - first:
+        name: _NoiseMaskBrightness
+      second: 1
+    - first:
+        name: _NoiseMaskContrast
+      second: 1
+    - first:
+        name: _SandContrast
+      second: 1
+    - first:
+        name: _SandOverlay
+      second: 0
+    - first:
+        name: _Shininess
+      second: 0.078125
+    - first:
+        name: _UpVectorTransition
+      second: 1
+    - first:
+        name: _WeatherMaskPower
+      second: 10.836329
+    - first:
+        name: _WeatherTexturePower
+      second: 0.65
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.7794118, g: 0.7762499, b: 0.7679499, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - first:
+        name: _TextureColor
+      second: {r: 1, g: 0.967343, b: 0.89705884, a: 1}
