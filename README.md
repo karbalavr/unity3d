@@ -26,10 +26,27 @@
 	You have 2 options to cooperate:
 		 With Us: here you can join our team, work with us to empower and enrich the project.
 		 By yourself: or you can work on the project the way you love alone or with your team, then deploy the product in another name in your website, and accounts 
+
 - License:
 	o The end product has to be 100% free.
 	o Revert back to us with all changes you made to integrate them with this project to be available for all users.
 	o Mention in your project/products that it is based on this project and listing the github/website link.
+
+License shoul be clear in your project
+
+Instructions
+Samsung j7 not working
+Scan device if it have acc gyro to start vr else to start full screen
+Ability to change to full scren within instruction
+
+Auto start as automatic after the tour user can go whenever he want
+Fix menu
+Logo
+Bg
+Poster
+Few rendered images
+Movies for people wearing it
+
 - Team:
 	o Fadi Loutf (Unity Developer)
 	o Hassan Ayoub (CEO)
