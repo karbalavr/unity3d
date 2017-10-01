@@ -1,7 +1,19 @@
+-ToDo:
+	o Add instructions when first start, to let user know how to interact with VR.
+	o Samsung j7 not working
+	o Scan device if it have acc gyro to start vr else to start full screen
+	o Ability to change to full scren within instruction
+	o First time Auto start as automatic after the tour user can go whenever he want
+	o Fix menu
+	o Design: Logo, background, poster
+	o Few rendered images
+	o Movies for people wearing it
+
 - Features:
 	o Open source, anyone can downlaod the project and see how it works and make edits on it.
 	o Cross Platform: Works on Android, iOS, Windows, Linux, MacOS.
-	o VR
+	o Full VR not just 360 video played in VR, so user can move in the Karbala by his bluetooth game controller, or he can go to the desire place by looking at the place name in the menu.
+	
 - Future Features:
 	o AR:
 	o MR:
@@ -29,23 +41,9 @@
 
 - License:
 	o The end product has to be 100% free.
+	o For commercial use contact us.	
 	o Revert back to us with all changes you made to integrate them with this project to be available for all users.
-	o Mention in your project/products that it is based on this project and listing the github/website link.
-
-License shoul be clear in your project
-
-Instructions
-Samsung j7 not working
-Scan device if it have acc gyro to start vr else to start full screen
-Ability to change to full scren within instruction
-
-Auto start as automatic after the tour user can go whenever he want
-Fix menu
-Logo
-Bg
-Poster
-Few rendered images
-Movies for people wearing it
+	o Mention clearly(splashscreen) in your project/products that it is based on this project and listing the github/website link.
 
 - Team:
 	o Fadi Loutf (Unity Developer)
